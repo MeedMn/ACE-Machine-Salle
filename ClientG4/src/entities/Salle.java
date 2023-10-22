@@ -5,10 +5,6 @@
  */
 package entities;
 
-/**
- *
- * @author menfa
- */
 import java.io.Serializable;
 
 import java.util.List;
